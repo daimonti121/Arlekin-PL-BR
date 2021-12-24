@@ -881,7 +881,8 @@
       }
   
       img#center-logo {
-          left: calc(50% - 81px);
+          left: calc(50% - 86px);
+          top: calc(50% - 114px);
       }
 
       img.mon-r-t {
